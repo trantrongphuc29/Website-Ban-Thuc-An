@@ -3,7 +3,6 @@ name: Deploy Website to Infinity
 on:
   push:
 
-
     branches: ["main"]
     
 jobs:
