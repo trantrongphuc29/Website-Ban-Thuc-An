@@ -22,5 +22,5 @@ jobs:
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./
-          server-dir: /www/trantrongphuc.gt.tc/
+          server-dir: /www/trantrongphuc.gt.tc/htdocs/
           protocol: ftp
