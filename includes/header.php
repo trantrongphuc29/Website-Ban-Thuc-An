@@ -55,7 +55,7 @@ if (!isset($pageTitle)) {
                 <a href="../index.php">Food<span>Shop</span></a>
             </div>
             <nav class="nav">
-                <a href="../index.php">Tranggg chủ</a>
+                <a href="../index.php">Tran chủ</a>
                 <a href="../category/khuyenmai.php">Menu</a>
                 <a href="../LabThucHanh/">Lab Thực Hành</a>
             </nav>
