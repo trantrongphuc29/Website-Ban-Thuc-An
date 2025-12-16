@@ -52,7 +52,7 @@ if (!isset($pageTitle)) {
     <header class="header">
         <div class="header-inner">
             <div class="logo">
-                <a href="../index.php">Food<span>Shop</span></a>
+                <a href="../index.php">Foody<span>Shop</span></a>
             </div>
             <nav class="nav">
                 <a href="../index.php">Trang chủ</a>
