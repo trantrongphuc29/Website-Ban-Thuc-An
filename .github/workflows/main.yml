@@ -2,15 +2,18 @@ name: Deploy Website to Infinity
 
 on:
   push:
-    branches:
-      - main
 
+
+    branches: ["main"]
+    
 jobs:
   ftp-deploy:
     runs-on: ubuntu-latest
 
     steps:
+
       - name: Checkout repository
+
         uses: actions/checkout@v3
 
       - name: Deploy project via FTP
