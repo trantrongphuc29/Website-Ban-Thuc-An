@@ -156,6 +156,7 @@ include INCLUDES_PATH . '/header.php';
     <!-- SECTION: DANH MỤC NỔI BẬT -->
     <section class="home-section">
         <div class="home-section-header">
+            <h1>trong phuc</h1>
             <h2>Danh mục nổi bậtt</h2>
             <a href="category/khuyenmai.php" class="link-more">Xem tất cả &rarr;</a>
         </div>
