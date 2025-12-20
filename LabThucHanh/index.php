@@ -79,6 +79,19 @@ require_once '../includes/header.php';
                 <a href="Lab07/bookstore.sql">Bookstore truy vấn</a>
             </div>
         </div>
+
+        <div class="lab-card">
+            <h3>Lab 08</h3>
+            <div class="lab-files">
+                <a href="lab08/index.html">Index</a>
+                <a href="lab08/lab8_1.php">Lab 8.1</a>
+                <a href="lab08/lab8_2.php">Lab 8.2</a>
+                <a href="lab08/lab8_3.php">Lab 8.3</a>
+                <a href="lab08/lab8_31.php">Lab 8.31</a>
+                <a href="lab08/lab8_4/">Lab 8.4 Project</a>
+                <a href="lab08/lab8_5/">Lab 8.5 Project</a>
+            </div>
+        </div>
     </div>
 </div>
 
