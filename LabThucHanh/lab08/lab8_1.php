@@ -8,7 +8,7 @@
 <body>
 <?php
 try{
-$pdh = new PDO("mysql:host=localhost; dbname=bookstore"  , "root"  , ""  );
+$pdh = new PDO("mysql:host=sql309.infinityfree.com;port=3306;dbname=if0_40293397_bookstore", "if0_40293397", "x3sFqZvDMLzG7C");
 $pdh->query("  set names 'utf8'"  );
 }
 catch(Exception $e){
